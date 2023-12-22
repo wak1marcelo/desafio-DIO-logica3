@@ -24,7 +24,7 @@ class hero {
         ataque = "não atacou"
         break
     }
-    console.log(`O Heroi ${this.nameHero} tem ${this.ageHero} e é do tipo ${this.typeHero} atacou usando ${ataque}`)
+    console.log(`O Heroi ${this.nameHero}, tem ${this.ageHero} anos, e é do tipo ${this.typeHero} e atacou usando ${ataque}`)
   }
 }
 
