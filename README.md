@@ -23,10 +23,10 @@ além disso, deve ter um método chamado atacar que deve atender os seguientes r
 - aonde o {tipo} deve ser concatenando o tipo que está na propriedade da classe
 - e no {ataque} deve seguir uma descrição diferente conforme o tipo, seguindo a tabela abaixo:
 
-- se mago -> no ataque exibir (usou magia)
-- se guerreiro -> no ataque exibir (usou espada)
-- se monge -> no ataque exibir (usou artes marciais)
-- se ninja -> no ataque exibir (usou shuriken)
+se mago -> no ataque exibir (usou magia)
+se guerreiro -> no ataque exibir (usou espada)
+se monge -> no ataque exibir (usou artes marciais)
+se ninja -> no ataque exibir (usou shuriken)
 
 ## Saída
 
